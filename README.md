@@ -1,4 +1,4 @@
-# ConsoleVault - Article and About Page
+# ConsoleVault - Gaming Article
 This is an article page from ConsoleVault built with **`HTML, CSS and JS`** about the best games of the last decade (2010-2019). **ConsoleVault is an invented brand** with which i have already done a react app with a full list of all the Nintendo, Sony and Microsoft consoles ever released. 
 
 ---
