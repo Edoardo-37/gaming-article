@@ -1,5 +1,5 @@
 # ConsoleVault - Article and About Page
-This is an article page from ConsoleVault built with **`HTML, CSS and JS`** about the best games of the last decade (2010-2019). ConsoleVault is an invented brand with which i have already done a react app with a full list of all the Nintendo, Sony and Microsoft consoles ever released. 
+This is an article page from ConsoleVault built with **`HTML, CSS and JS`** about the best games of the last decade (2010-2019). **ConsoleVault is an invented brand** with which i have already done a react app with a full list of all the Nintendo, Sony and Microsoft consoles ever released. 
 
 ---
 ## NOTE
@@ -9,8 +9,8 @@ This is an article page from ConsoleVault built with **`HTML, CSS and JS`** abou
 ---
 
 `HTML`:
-1. **article head** with title and intro.
-2. **article body** section with the main content of teh article
+1. **Article head** with title and intro.
+2. **Article body** section with the main content of teh article
 3. **Footer**
 4. **About page** with some info on the brand.
 
